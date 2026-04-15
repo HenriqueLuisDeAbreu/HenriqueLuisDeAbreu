@@ -49,30 +49,6 @@
 
 ---
 
-## 💼 Experiência
-
-### 🏢 Livrarias Curitiba
-
-**Software Developer** (2025 - Atual)
-
-* 🚀 Otimização de sistemas ERP (Senior & HCM)
-* 🌐 Desenvolvimento web (ASP & PHP)
-* 🗄️ Banco de dados: Oracle, MySQL, SQL Server
-* 🤝 Integração com times multidisciplinares
-
----
-
-### 🏢 Leclair Cosméticos
-
-**Software Developer** (2024 - 2025)
-
-* 🔧 Desenvolvimento completo de soluções
-* 📈 Otimização de ERP (Viasoft Korp)
-* 🧩 Correções, melhorias e reengenharia de sistemas
-* 📊 Apoio estratégico à gestão
-
----
-
 ## 🧾 Certificações
 
 ✔️ Microsoft SQL Server 2022
