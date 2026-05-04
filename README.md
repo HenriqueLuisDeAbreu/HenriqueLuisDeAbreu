@@ -105,14 +105,17 @@ Aqui está o meu gráfico de contribuições:
 
 🔹 izi-soloing 
   "Um projeto desenvolvido com foco em facilitar o aprendizado de escalas musicais."
+
 📍 Acesse: https://izi-soloing.vercel.app 
 
 🔹 izi-Condo 
   "Um projeto desenvolvido com objetivo de otimizar o relacionamento entre condôminos e portaria/zeladoria."
+
 📍 Acesse: https://iz-i-condo.vercel.app
 
 🔹 Mestre do braço 
   "Um projeto desenvolvido com objetivo de Gamificar o aprendizado das notas no braço da Guitarra/Violão."
+
 📍 Acesse: https://scale-master-sigma.vercel.app
 
 
