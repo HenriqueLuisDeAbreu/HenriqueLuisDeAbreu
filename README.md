@@ -92,10 +92,27 @@ Aqui está o meu gráfico de contribuições:
 
 ---
 
-## ⭐ Vamos nos conectar!
+## 📫 Vamos nos conectar!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-luis-de-abreu-418317190/">
     <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Luis%20de%20Abreu-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+---
+
+## ⭐ Links:
+
+🔹 izi-soloing 
+  "Um projeto desenvolvido com foco em facilitar o aprendizado de escalas musicais."
+📍 Acesse: https://izi-soloing.vercel.app 
+
+🔹 izi-Condo 
+  "Um projeto desenvolvido com objetivo de otimizar o relacionamento entre condôminos e portaria/zeladoria."
+📍 Acesse: https://iz-i-condo.vercel.app
+
+🔹 Mestre do braço 
+  "Um projeto desenvolvido com objetivo de Gamificar o aprendizado das notas no braço da Guitarra/Violão."
+📍 Acesse: https://scale-master-sigma.vercel.app
+
+
